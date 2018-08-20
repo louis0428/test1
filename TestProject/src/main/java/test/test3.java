@@ -15,6 +15,8 @@ public class test3 {
 		System.out.println("This is andy2");
 		System.out.println("This is junjie3");
 		System.out.println("This is junjie4");
+		System.out.println("This is junjie5");
+		System.out.println("This is junjie6");
 	}
 	
 }
