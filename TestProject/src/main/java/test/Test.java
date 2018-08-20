@@ -30,5 +30,6 @@ public class Test {
 		System.out.println("This is method three"); 
 	
 		System.out.println("This is method three"); 
+		System.out.println("This is method three"); 
 	}
 }
