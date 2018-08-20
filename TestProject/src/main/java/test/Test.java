@@ -11,7 +11,7 @@ public class Test {
 		System.out.println("hi andy");
 		System.out.println("Tttttt");
 		System.out.println("hhihihihi");
-		System.out.println("This is method two");
+		System.out.println("This is method three");
 		System.out.println("This is method two");
 		System.out.println("This is method two");
 		System.out.println("This is method two");
