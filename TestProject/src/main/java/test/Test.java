@@ -10,7 +10,7 @@ public class Test {
 	public void method2(){
 		System.out.println("hi andy");
 		System.out.println("Tttttt");
-		System.out.println("This is method two");
+		System.out.println("hhihihihi");
 		System.out.println("This is method two");
 		System.out.println("This is method two");
 		System.out.println("This is method two");
