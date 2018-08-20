@@ -7,6 +7,6 @@ public class test4 {
 		System.out.println("This is method two");
 		System.out.println("This is method three");
 		System.out.println("This is method four");
-		System.out.println("This is method five"); 
+		System.out.println("This is method five");
 	}
 }
