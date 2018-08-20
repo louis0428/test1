@@ -11,7 +11,7 @@ public class Test {
 		System.out.println("Hello World");
 	}
 	
-	public void method2(){
+	public void method2(){ 
 		System.out.println("This is method one"); 
 		System.out.println("This is method two");
 		System.out.println("This is method three");
