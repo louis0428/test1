@@ -8,6 +8,12 @@ public class Test {
 	}
 	
 	public void method2(){
-		
+		System.out.println("This is method two");
+		System.out.println("This is method two");
+		System.out.println("This is method two");
+		System.out.println("This is method two");
+		System.out.println("This is method two");
+		System.out.println("This is method two");
+		System.out.println("This is method two");
 	}
 }
