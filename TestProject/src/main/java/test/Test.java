@@ -8,15 +8,15 @@ public class Test {
 		System.out.println("Hello World");
 	}
 	
-	public void method4(){ 
+
+	public void method2(){
+
 		System.out.println("This is method one"); 
 		System.out.println("This is method two");
 		System.out.println("This is method three");
 		System.out.println("This is method four");
 		System.out.println("This is method five"); 
-		System.out.println("This is method 9");  
-}
-	
+
 	public void method3(){ 
 		System.out.println("This is method one"); 
 		System.out.println("This is method two");
