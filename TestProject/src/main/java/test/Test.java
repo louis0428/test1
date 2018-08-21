@@ -11,7 +11,6 @@ public class Test {
 		System.out.println("This is method one"); 
 		System.out.println("This is method two");
 		System.out.println("This is method three");
-		System.out.println("This is method four");
 	}
 	
 	public void method3(){ 
